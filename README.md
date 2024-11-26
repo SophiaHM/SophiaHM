@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Student of University of Cauca Valley
+- 🌱 I'm currently learning Software Development in Github
 <!--
 **SophiaHM/SophiaHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
